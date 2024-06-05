@@ -5,7 +5,7 @@ c**ROS**pile is a simple script for cross-compiling ROS2 packages from scratch, 
 
 ## About cROSpile
 
-With the deprecation of the official ROS2 tool and abbadonment of support for cross-compilation of ROS2,
+With the [deprecation](https://discourse.ros.org/t/ros2-cross-compile-tool/29656) of the official ROS2 tool and abbadonment of support for cross-compilation of ROS2,
 there is no recent native script for cross-compilation of recent ROS versions, especially for Raspberry Pi 4 and above.
 
 This script compiles ROS2 packages for Debian Bookworm. You can quickly adapt it for different architectures as needed — all you need to
