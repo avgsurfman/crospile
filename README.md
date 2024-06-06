@@ -1,6 +1,6 @@
 # cROSpile
 
-c**ROS**pile is a simple script for cross-compiling ROS2 packages from scratch, inspired by [this repo](https://github.com/cyberbotics/epuck_ros2/tree/master/installation)
+c**ROS**pile is a simple script for cross-compiling ROS2 packages from scratch, inspired by [this repository](https://github.com/cyberbotics/epuck_ros2/tree/master/installation).
 
 
 ## About cROSpile
@@ -19,7 +19,7 @@ change is the CMAKE optimization flags in the `toolchain.cmake` file and provide
 
 ## Usage
 
-```
+```bash
 ./cROSpile --offline --arch=xyz --url=abc
 ```
 , where:
